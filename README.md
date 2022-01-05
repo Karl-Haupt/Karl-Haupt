@@ -1,7 +1,6 @@
 <p align=”center”>
   
-  <img width=”200" height=”200" src=”![Karl Haupt](https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png)
-" alt=”my banner”>
+  <img width=”200" height=”200" src=”![Karl Haupt](https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png)" alt=”my banner”>
   
 </p>
 

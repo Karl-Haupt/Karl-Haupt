@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png" alt="my banner">
+  </a>
 </p>
 
 <h3 align="center">
@@ -19,7 +21,8 @@ I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur �
     - C# (ASP.net) <br />
     - Advacing my knoweldge in Data Structures and Algorthims <br />
 
-## ⚡ Fun fact: Once you get to know me, I have a tremodusly funny humour <br />
+## ⚡ Fun fact: 
+    - Once you get to know me, I have a tremodously funny humour <br />
 
  ## **Connect with me on:  🤝** <br />
 <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Karl Haupt | LinkedIn" width="21px"/></a>
@@ -44,5 +47,6 @@ I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur �
 
 ## 📈 GitHub Stats 
 
-[![Karl’s github stats](https://github-readme-stats.vercel.app/api?username=Karl-Haupt)](https://github.com/Karl-Haupt)
+[![Karl’s github stats](https://github-readme-stats.vercel.app/api?username=Karl-Haupt)](https://github.com/Karl-Haupt) 
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl-Haupt&layout=compact)](https://github.com/Karl-Haupt)

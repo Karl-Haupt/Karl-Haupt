@@ -10,7 +10,7 @@ I'm a Java programmer, and a MERN stack enthusiast😀
 Connect with me on:  🤝
 
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
                                                                                                                           
 <!--
 **Karl-Haupt/Karl-Haupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

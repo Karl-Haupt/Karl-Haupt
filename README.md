@@ -1,19 +1,31 @@
-<p align=”center”>
-  
-  <img width="100%" height="200" src="https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png" alt="my banner">
-  
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png" alt="my banner"></a>
 </p>
 
+<h3 align="center">
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Karl Haupt</a> 👋
+</h3>
 
-I'm a Java programmer, and a MERN stack enthusiast😀
+<h2 align="center">
+I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur 📈!
+</h2> 
 
-🎓 Studying software engineer at CPUT <br />
-🌱 I’m currently learning C# (ASP.net) <br />
-💬 Ask me about entrepreneurship <br />
-⚡ Fun fact: Once you get to know me, I have a tremodusly funny humour <br />
+
+
+## 🎓 Studying software engineer at CPUT <br />
+    - 3rd year <br />
+    
+## 🌱 I'm currently learning <br/>
+    - C# (ASP.net) <br />
+    - Advacing my knoweldge in Data Structures and Algorthims <br />
+
+## ⚡ Fun fact: Once you get to know me, I have a tremodusly funny humour <br />
 
  ## **Connect with me on:  🤝** <br />
-
+<a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Karl Haupt | LinkedIn" width="21px"/></a>
+<a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Karl Haupt | Instagram" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## **Langauges & tools:** <br />
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,3 +42,7 @@ I'm a Java programmer, and a MERN stack enthusiast😀
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br />
 
+## 📈 GitHub Stats 
+
+[![Karl’s github stats](https://github-readme-stats.vercel.app/api?username=Karl-Haupt)](https://github.com/Karl-Haupt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karl-Haupt&layout=compact)](https://github.com/Karl-Haupt)

@@ -19,7 +19,7 @@ I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur �
     
 ## 🌱 I'm currently learning <br/>
     - C# (ASP.net)
-    - Data Structures and Algorthims
+    - Data structures and algorithm
 
 ## ⚡ Fun fact: 
     - Once you get to know me, I have a tremendously funny humour

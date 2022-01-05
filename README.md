@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png" alt="my banner">
+    <img width="100%" height="200" src="https://user-images.githubusercontent.com/69191757/148224362-3c372899-ab25-42d5-ba96-15c80cc07b30.png" alt="my banner">
   </a>
 </p>
 
@@ -15,14 +15,14 @@ I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur �
 
 
 ## 🎓 Studying software engineer at CPUT <br />
-    - 3rd year <br />
+    - 3rd year 
     
 ## 🌱 I'm currently learning <br/>
-    - C# (ASP.net) <br />
-    - Advacing my knoweldge in Data Structures and Algorthims <br />
+    - C# (ASP.net)
+    - Data Structures and Algorthims
 
 ## ⚡ Fun fact: 
-    - Once you get to know me, I have a tremodously funny humour <br />
+    - Once you get to know me, I have a tremodously funny humour
 
  ## **Connect with me on:  🤝** <br />
 <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Karl Haupt | LinkedIn" width="21px"/></a>

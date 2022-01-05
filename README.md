@@ -22,7 +22,7 @@ I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur �
     - Data Structures and Algorthims
 
 ## ⚡ Fun fact: 
-    - Once you get to know me, I have a tremodously funny humour
+    - Once you get to know me, I have a tremendously funny humour
 
  ## **Connect with me on:  🤝** <br />
 <a href="#"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Karl Haupt | LinkedIn" width="21px"/></a>

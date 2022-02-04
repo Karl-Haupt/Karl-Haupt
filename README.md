@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
-    <img width="100%" height="200" src="https://user-images.githubusercontent.com/69191757/152539509-f51bab9f-9154-427b-ba39-ae576f5691a4.gif" alt="my banner">
+    <img width="100%" height="200" src="https://user-images.githubusercontent.com/69191757/152541204-b627b410-0d38-4201-a6a9-34f443ac293b.gif" alt="my banner">
   </a>
 </p>
 

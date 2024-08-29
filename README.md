@@ -5,21 +5,15 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Karl Haupt</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/karl-haupt-3014521b5/" target="_blank" rel="noreferrer">Karl Haupt</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack MERN Developer 💻, Java programmer 🖥, and Entrepreneur 📈!
+I'm a Mobile Lead 🚀, Software Engineer 🌐, and IT Consultant!
 </h2> 
-
-
-
-## 🎓 Studying software engineer at CPUT <br />
-    - 3rd year 
     
 ## 🌱 I'm currently learning <br/>
-    - C# (ASP.net)
-    - Data structures and algorithm
+    - Kotlin
 
 ## ⚡ Fun fact: 
     - Once you get to know me, I have a tremendously funny humour

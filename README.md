@@ -5,17 +5,23 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/karl-haupt-3014521b5/" target="_blank" rel="noreferrer">Karl Haupt</a> 👋
+  Hi there, I'm <a href="https://www.linkedin.com/in/karl-haupt-3014521b5/" target="_blank" rel="noreferrer">Karl Haupt</a> 👋
 </h3>
 
-<h2 align="center">
-I'm a Mobile Lead 🚀, Software Engineer 🌐, and IT Consultant!
-</h2> 
+<h2 align="center">Software Engineer 🌐 & IT Consultant</h2>
 
-<p>
-  I'm a passionate developer with a keen eye for detail and nearly 3 years of experience building high-performance mobile apps and web platforms. 
-  I specialize in React Native and full-stack development using Node.js, React, and PostgreSQL, with a dash of   
-  cloud infrastructure expertise to round things out.
+<p align="center">
+  Developer with a keen eye for detail and nearly 3 years of experience<br/>
+  building high-performance mobile apps and web platforms.<br/>
+  Specialising in <strong>React Native</strong> and full-stack development — <strong>Node.js</strong>, <strong>React</strong>, <strong>PostgreSQL</strong>.<br/>
+  Currently exploring <strong>BLE</strong> and <strong>AI/LLM integrations</strong>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-Frontend-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-Full--Stack-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLE-Hardware_Bridge-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FLLM-Integrations-FF6B6B?style=flat-square" />
 </p>
     
 ### ✨ Highlight Projects
@@ -26,7 +32,7 @@ I'm a Mobile Lead 🚀, Software Engineer 🌐, and IT Consultant!
 ### 🌟 My Development Stack
 
 - **Frontend**: React, React Native, HTML5, CSS3, TypeScript
-- **Backend**: Node.js, Express.js, C#, PostgreSQL, MongoDB
+- **Backend**: Node.js, Express.js, C#, PostgreSQL, Java
 - **Cloud**: AWS, Firebase
 - **Tools**: Git, Azure Pipelines, VS Code
 
@@ -54,7 +60,6 @@ I thrive in **Agile** environments, collaborating with teams to deliver high-qua
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
